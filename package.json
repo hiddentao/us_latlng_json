@@ -1,6 +1,6 @@
 {
   "name": "us_latlng_json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON dataset of latitude and longitude co-ordinates for USA state counties and cities",
   "main": "us_state_cities.json",
   "scripts": {
