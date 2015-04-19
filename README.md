@@ -7,9 +7,29 @@ Original sources:
 
 ## Usage
 
+**Node.js**
+
+Install:
+
+```bash
+$ npm install us_latlng_json
+```
+
+Code: 
 
 ```js
+var usaStates = require('us_latlng_json');
 ```
+
+**Bower**
+
+Install:
+
+```bash
+$ bower install us_latlng_json
+```
+
+Then load the `us_state_cities.json` from within your code.
 
 
 ## License
