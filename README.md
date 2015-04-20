@@ -4,6 +4,7 @@ Original sources:
 
 * http://en.wikipedia.org/wiki/User:Michael_J/County_table
 * https://github.com/deremer/Cities/blob/master/countries/unitedstates.js
+* http://dev.maxmind.com/geoip/legacy/codes/state_latlon/
 
 ## Usage
 
