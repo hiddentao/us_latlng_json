@@ -1,11 +1,11 @@
 {
   "name": "us_latlng_json",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     "Ramesh Nair <ram@hiddentao.com>"
   ],
   "description": "JSON dataset of latitude and longitude co-ordinates for USA state counties and cities",
-  "main": "us_state_cities.json",
+  "main": "us_latlng.json",
   "keywords": [
     "gps",
     "latlng",
